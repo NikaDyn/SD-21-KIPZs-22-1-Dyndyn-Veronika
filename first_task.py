@@ -3,3 +3,4 @@ print("Hi, my name is Podletskyi Denys and I’m studying software development i
 print("Hi, my name is Pats Vladyslav and I’m studying software development in college!")
 
 print("Task completed!!! We did it!")
+print("Just checking")
